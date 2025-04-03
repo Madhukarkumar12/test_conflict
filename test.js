@@ -1,4 +1,4 @@
 const a = 7+5;
 
-const b = a + 7;
+const b = a;
 // This is a good code
